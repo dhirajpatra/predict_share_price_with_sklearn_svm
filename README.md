@@ -13,4 +13,11 @@ https://scikit-learn.org/stable/tutorial/basic/tutorial.html
 ### Python
 https://www.python.org/
 
+### How to run
+Just go to command prompt of the application dir and run: `python predict_stock_price.py`
+
+or
+
+Run from your IDE eg. spyder or install Anacoda Navigator from https://anaconda.org/
+
 You can clone and update as per your need. Thank you.
